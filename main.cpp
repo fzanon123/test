@@ -24,7 +24,8 @@ int main(int argc, char** argv) {
     cout << "yo ça vas" << endl;
     int a = 4;
     int b = 7;
-    cout << a +=b << endl;
+    a+=b;
+    cout << a << endl;
     
     return 0;
 }
