@@ -22,6 +22,9 @@ using namespace std;
 int main(int argc, char** argv) {
 
     cout << "yo ça vas" << endl;
+    int a = 4;
+    int b = 7;
+    cout << a +=b << endl;
     
     return 0;
 }
