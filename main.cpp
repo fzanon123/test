@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     int b = 7;
     a+=b;
     cout << a << endl;
-      cout << = 11 << endl;
+    cout << "= 11" << endl;
     
     return 0;
 }
